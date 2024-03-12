@@ -1,0 +1,59 @@
+E:\大学\大三上\综合实践2\项目工程文件\Shop management system\Shop management system\bin\Debug\Shop management system.exe.config
+E:\大学\大三上\综合实践2\项目工程文件\Shop management system\Shop management system\bin\Debug\Shop management system.exe
+E:\大学\大三上\综合实践2\项目工程文件\Shop management system\Shop management system\bin\Debug\Shop management system.pdb
+E:\大学\大三上\综合实践2\项目工程文件\Shop management system\Shop management system\obj\Debug\Shop management system.csproj.AssemblyReference.cache
+E:\大学\大三上\综合实践2\项目工程文件\Shop management system\Shop management system\obj\Debug\Shop_management_system.登录界面.resources
+E:\大学\大三上\综合实践2\项目工程文件\Shop management system\Shop management system\obj\Debug\Shop_management_system.Properties.Resources.resources
+E:\大学\大三上\综合实践2\项目工程文件\Shop management system\Shop management system\obj\Debug\Shop management system.csproj.GenerateResource.cache
+E:\大学\大三上\综合实践2\项目工程文件\Shop management system\Shop management system\obj\Debug\Shop management system.csproj.CoreCompileInputs.cache
+E:\大学\大三上\综合实践2\项目工程文件\Shop management system\Shop management system\obj\Debug\Shop management system.exe
+E:\大学\大三上\综合实践2\项目工程文件\Shop management system\Shop management system\obj\Debug\Shop management system.pdb
+E:\大学\大三上\综合实践2\项目工程文件\Shop management system\Shop management system\bin\Debug\BouncyCastle.Cryptography.dll
+E:\大学\大三上\综合实践2\项目工程文件\Shop management system\Shop management system\bin\Debug\Google.Protobuf.dll
+E:\大学\大三上\综合实践2\项目工程文件\Shop management system\Shop management system\bin\Debug\K4os.Compression.LZ4.dll
+E:\大学\大三上\综合实践2\项目工程文件\Shop management system\Shop management system\bin\Debug\K4os.Compression.LZ4.Streams.dll
+E:\大学\大三上\综合实践2\项目工程文件\Shop management system\Shop management system\bin\Debug\K4os.Hash.xxHash.dll
+E:\大学\大三上\综合实践2\项目工程文件\Shop management system\Shop management system\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+E:\大学\大三上\综合实践2\项目工程文件\Shop management system\Shop management system\bin\Debug\MySql.Data.dll
+E:\大学\大三上\综合实践2\项目工程文件\Shop management system\Shop management system\bin\Debug\System.Buffers.dll
+E:\大学\大三上\综合实践2\项目工程文件\Shop management system\Shop management system\bin\Debug\System.Configuration.ConfigurationManager.dll
+E:\大学\大三上\综合实践2\项目工程文件\Shop management system\Shop management system\bin\Debug\System.Data.SqlClient.dll
+E:\大学\大三上\综合实践2\项目工程文件\Shop management system\Shop management system\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+E:\大学\大三上\综合实践2\项目工程文件\Shop management system\Shop management system\bin\Debug\System.IO.Pipelines.dll
+E:\大学\大三上\综合实践2\项目工程文件\Shop management system\Shop management system\bin\Debug\System.Memory.dll
+E:\大学\大三上\综合实践2\项目工程文件\Shop management system\Shop management system\bin\Debug\System.Numerics.Vectors.dll
+E:\大学\大三上\综合实践2\项目工程文件\Shop management system\Shop management system\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\大学\大三上\综合实践2\项目工程文件\Shop management system\Shop management system\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\大学\大三上\综合实践2\项目工程文件\Shop management system\Shop management system\bin\Debug\ZstdSharp.dll
+E:\大学\大三上\综合实践2\项目工程文件\Shop management system\Shop management system\bin\Debug\BouncyCastle.Cryptography.xml
+E:\大学\大三上\综合实践2\项目工程文件\Shop management system\Shop management system\bin\Debug\Google.Protobuf.pdb
+E:\大学\大三上\综合实践2\项目工程文件\Shop management system\Shop management system\bin\Debug\Google.Protobuf.xml
+E:\大学\大三上\综合实践2\项目工程文件\Shop management system\Shop management system\bin\Debug\K4os.Compression.LZ4.xml
+E:\大学\大三上\综合实践2\项目工程文件\Shop management system\Shop management system\bin\Debug\K4os.Compression.LZ4.Streams.xml
+E:\大学\大三上\综合实践2\项目工程文件\Shop management system\Shop management system\bin\Debug\K4os.Hash.xxHash.xml
+E:\大学\大三上\综合实践2\项目工程文件\Shop management system\Shop management system\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+E:\大学\大三上\综合实践2\项目工程文件\Shop management system\Shop management system\bin\Debug\MySql.Data.xml
+E:\大学\大三上\综合实践2\项目工程文件\Shop management system\Shop management system\bin\Debug\System.Buffers.xml
+E:\大学\大三上\综合实践2\项目工程文件\Shop management system\Shop management system\bin\Debug\System.Data.SqlClient.xml
+E:\大学\大三上\综合实践2\项目工程文件\Shop management system\Shop management system\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+E:\大学\大三上\综合实践2\项目工程文件\Shop management system\Shop management system\bin\Debug\System.IO.Pipelines.xml
+E:\大学\大三上\综合实践2\项目工程文件\Shop management system\Shop management system\bin\Debug\System.Memory.xml
+E:\大学\大三上\综合实践2\项目工程文件\Shop management system\Shop management system\bin\Debug\System.Numerics.Vectors.xml
+E:\大学\大三上\综合实践2\项目工程文件\Shop management system\Shop management system\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\大学\大三上\综合实践2\项目工程文件\Shop management system\Shop management system\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\大学\大三上\综合实践2\项目工程文件\Shop management system\Shop management system\obj\Debug\Shop management system.csproj.CopyComplete
+E:\大学\大三上\综合实践2\项目工程文件\Shop management system\Shop management system\obj\Debug\Shop_management_system.Form2.resources
+E:\大学\大三上\综合实践2\项目工程文件\Shop management system\Shop management system\obj\Debug\Shop_management_system.会员管理.resources
+E:\大学\大三上\综合实践2\项目工程文件\Shop management system\Shop management system\obj\Debug\Shop_management_system.收银.resources
+E:\大学\大三上\综合实践2\项目工程文件\Shop management system\Shop management system\obj\Debug\Shop_management_system.进货管理.resources
+E:\大学\大三上\综合实践2\项目工程文件\Shop management system\Shop management system\obj\Debug\Shop_management_system.修改密码.resources
+E:\大学\大三上\综合实践2\项目工程文件\Shop management system\Shop management system\obj\Debug\Shop_management_system.删除会员.resources
+E:\大学\大三上\综合实践2\项目工程文件\Shop management system\Shop management system\obj\Debug\Shop_management_system.注册会员.resources
+E:\大学\大三上\综合实践2\项目工程文件\Shop management system\Shop management system\obj\Debug\Shop_management_system.积分管理.resources
+E:\大学\大三上\综合实践2\项目工程文件\Shop management system\Shop management system\obj\Debug\Shop_management_system.人事管理.resources
+E:\大学\大三上\综合实践2\项目工程文件\Shop management system\Shop management system\obj\Debug\Shop_management_system.新增员工.resources
+E:\大学\大三上\综合实践2\项目工程文件\Shop management system\Shop management system\obj\Debug\Shop_management_system.员工信息修改.resources
+E:\大学\大三上\综合实践2\项目工程文件\Shop management system\Shop management system\obj\Debug\Shop_management_system.进货订单处理.resources
+E:\大学\大三上\综合实践2\项目工程文件\Shop management system\Shop management system\obj\Debug\Shop_management_system.会员确认.resources
+E:\大学\大三上\综合实践2\项目工程文件\Shop management system\Shop management system\obj\Debug\Shop_management_system.收银订单处理.resources
+E:\大学\大三上\综合实践2\项目工程文件\Shop management system\Shop management system\obj\Debug\Shop_management_system.售价管理.resources
